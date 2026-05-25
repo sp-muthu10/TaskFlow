@@ -16,7 +16,7 @@ import Authentication from "./components/Authentication";
 /* Lazy Components */
 
 const WorkspaceLayout = lazy(() =>
-  import("./components/WorkspaceLayout")
+  import("./components/WorkSpaceLayout")
 );
 
 const SmartTaskInput = lazy(() =>
