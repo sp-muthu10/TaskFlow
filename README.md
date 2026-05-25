@@ -1,16 +1,40 @@
-# React + Vite
+# TaskFlow 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskFlow is a modern and responsive task management web application built using React and Vite. It helps users organize tasks efficiently with powerful productivity features and a clean user interface.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 Vercel Deployment: YOUR_VERCEL_LINK_HERE
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- ✅ Smart Task Management
+- 📅 Calendar View
+- 📊 Analytics Dashboard
+- 🔔 Notifications System
+- 🗂️ Kanban Board
+- 🔍 Search & Filter Tasks
+- 🎨 Modern Responsive UI
+- ⚡ Fast Performance with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Vite
+- JavaScript
+- CSS3
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── components/
+ ├── App.jsx
+ ├── main.jsx
+ └── index.css
